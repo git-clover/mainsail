@@ -40,7 +40,7 @@
                             {{ mdiSnowflake }}
                         </v-icon>
                         <v-icon v-else small class="_preset-icon">{{ mdiFire }}</v-icon>
-                        <span style="padding-top: 2px">{{ preset.value }}°C</span>
+                        <span style="padding-top: 2px">{{ preset.value }} °C</span>
                     </div>
                 </v-list-item>
             </v-list>

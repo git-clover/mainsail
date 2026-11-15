@@ -249,7 +249,7 @@ export default class MmuUnitGateSpool extends Mixins(BaseMixin, MmuMixin) {
 
         let temperature = ''
         if (this.filamentTemperature > 0) {
-            temperature = ` | ${this.filamentTemperature}°C`
+            temperature = ` | ${this.filamentTemperature} °C`
         }
         output.push(this.filamentMaterial + temperature)
 

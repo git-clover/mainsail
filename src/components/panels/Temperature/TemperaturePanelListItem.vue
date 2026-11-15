@@ -24,9 +24,9 @@
                     </span>
                 </template>
                 <span>
-                    {{ $t('Panels.TemperaturePanel.Max') }}: {{ measured_max_temp }}°C
+                    {{ $t('Panels.TemperaturePanel.Max') }}: {{ measured_max_temp }} °C
                     <br />
-                    {{ $t('Panels.TemperaturePanel.Min') }}: {{ measured_min_temp }}°C
+                    {{ $t('Panels.TemperaturePanel.Min') }}: {{ measured_min_temp }} °C
                 </span>
             </v-tooltip>
             <div v-if="rpm !== null">
@@ -224,7 +224,7 @@ export default class TemperaturePanelListItem extends Mixins(BaseMixin) {
     }
 
     get formatTemperature() {
-        return `${this.temperature?.toFixed(1) ?? '--'}°C`
+        return `${this.temperature?.toFixed(1) ?? '--'} °C`
     }
 
     get min_temp() {

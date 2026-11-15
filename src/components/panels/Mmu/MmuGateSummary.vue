@@ -55,7 +55,7 @@ export default class MmuGateSummary extends Mixins(BaseMixin, MmuMixin) {
 
     get subtitle() {
         const output = [this.gateMaterial]
-        if (this.gateTemperature > 0) output.push(`${this.gateTemperature}°C`)
+        if (this.gateTemperature > 0) output.push(`${this.gateTemperature} °C`)
         if (this.gateSpeedOverride !== 100) output.push(`Speed: ${this.gateSpeedOverride.toFixed(0)}%`)
 
         return output.join(' | ')

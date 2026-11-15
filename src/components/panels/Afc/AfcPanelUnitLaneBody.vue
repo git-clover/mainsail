@@ -169,8 +169,8 @@ export default class AfcPanelUnitLaneBody extends Mixins(BaseMixin, AfcMixin) {
 
     get spoolMaterialDetails(): string {
         const array = [this.spoolMaterialOutput]
-        if (this.spoolExtruderTemp !== undefined) array.push(`${this.spoolExtruderTemp}°C`)
-        if (this.spoolBedTemp !== undefined) array.push(`${this.spoolBedTemp}°C`)
+        if (this.spoolExtruderTemp !== undefined) array.push(`${this.spoolExtruderTemp} °C`)
+        if (this.spoolBedTemp !== undefined) array.push(`${this.spoolBedTemp} °C`)
 
         return array.join(' | ')
     }

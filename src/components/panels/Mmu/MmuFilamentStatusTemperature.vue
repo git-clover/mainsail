@@ -22,7 +22,7 @@ export default class MmuFilamentStatusTemperature extends Mixins(BaseMixin, MmuM
     get temperatureText() {
         const extTemp = this.$store.state.printer.extruder?.temperature ?? null
 
-        return extTemp ? `${extTemp.toFixed(0)}°C` : ''
+        return extTemp ? `${extTemp.toFixed(0)} °C` : ''
     }
 }
 </script>
