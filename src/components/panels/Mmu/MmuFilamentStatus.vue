@@ -105,7 +105,7 @@
             :fill="lowerNozzleColor" />
 
         <g
-            style="stroke: var(--color-outline); font-family: 'Pretendard', sans-serif; font-size: 16px"
+            style="stroke: var(--color-outline); font-family: 'Pretendard'; font-size: 16px"
             stroke-linejoin="round"
             stroke-width="0">
             <mmu-filament-status-sensor
