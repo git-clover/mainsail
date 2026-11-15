@@ -540,9 +540,9 @@
                 "Memory": "Paměť: {memory}",
                 "Os": "OS: {os}",
                 "Received": "Přijato: {received}",
-                "Temp": "Teplota: {temp}°C",
-                "TempMax": "max: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Teplota: {temp} °C",
+                "TempMax": "max: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "Přeneseno: {transmitted}",
                 "Version": "Verze: {version}"
             }

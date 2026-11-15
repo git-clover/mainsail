@@ -493,9 +493,9 @@
                 "Memory": "Geheugen: {memory}",
                 "Os": "OS: {os}",
                 "Received": "Ontvangen: {received}",
-                "Temp": "Temp: {temp}°C",
-                "TempMax": "max: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Temp: {temp} °C",
+                "TempMax": "max: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "Verzonden: {transmitted}",
                 "Version": "Versie: {version}"
             }

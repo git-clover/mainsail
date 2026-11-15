@@ -523,9 +523,9 @@
                 "Memory": "RAM: {memory}",
                 "Os": "Операційна Система: {os}",
                 "Received": "Отримано: {received}",
-                "Temp": "t° проц.: {temp}°C",
-                "TempMax": "макс: {temp}°C",
-                "TempMin": "мін: {temp}°C",
+                "Temp": "t° проц.: {temp} °C",
+                "TempMax": "макс: {temp} °C",
+                "TempMin": "мін: {temp} °C",
                 "Transmitted": "Передано: {transmitted}",
                 "Version": "Версія: {version}"
             }

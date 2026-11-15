@@ -545,9 +545,9 @@
                 "Memory": "Mem: {memory}",
                 "Os": "OS: {os}",
                 "Received": "Kapott: {received}",
-                "Temp": "Hőm: {temp}°C",
-                "TempMax": "max: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Hőm: {temp} °C",
+                "TempMax": "max: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "Elküldött: {transmitted}",
                 "Version": "Verzió: {version}"
             }

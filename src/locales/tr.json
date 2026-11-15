@@ -545,9 +545,9 @@
                 "Memory": "Hafıza: {memory}",
                 "Os": "İşletim Sistemi: {os}",
                 "Received": "Alındı: {received}",
-                "Temp": "Sıcaklık: {temp}°C",
-                "TempMax": "maks: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Sıcaklık: {temp} °C",
+                "TempMax": "maks: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "İletildi: {transmitted}",
                 "Version": "Sürüm: {version}"
             }

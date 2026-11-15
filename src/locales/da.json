@@ -523,9 +523,9 @@
                 "Memory": "Hukkommelse: {memory}",
                 "Os": "OS: {os}",
                 "Received": "Modtaget: {received}",
-                "Temp": "Temperatur: {temp}°C",
-                "TempMax": "maks: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Temperatur: {temp} °C",
+                "TempMax": "maks: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "Sendt: {transmitted}",
                 "Version": "Version: {version}"
             }

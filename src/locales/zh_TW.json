@@ -545,9 +545,9 @@
                 "Memory": "記憶體：{memory}",
                 "Os": "系統：{os}",
                 "Received": "已接收：{received}",
-                "Temp": "溫度：{temp}°C",
-                "TempMax": "最高：{temp}°C",
-                "TempMin": "最低：{temp}°C",
+                "Temp": "溫度：{temp} °C",
+                "TempMax": "最高：{temp} °C",
+                "TempMin": "最低：{temp} °C",
                 "Transmitted": "已傳送：{transmitted}",
                 "Version": "版本：{version}"
             }

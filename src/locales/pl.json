@@ -544,9 +544,9 @@
                 "Memory": "Pamięć: {memory}",
                 "Os": "System: {os}",
                 "Received": "Odebrano: {received}",
-                "Temp": "Temp.: {temp}°C",
-                "TempMax": "max: {temp}°C",
-                "TempMin": "min: {temp}°C",
+                "Temp": "Temp.: {temp} °C",
+                "TempMax": "max: {temp} °C",
+                "TempMin": "min: {temp} °C",
                 "Transmitted": "Przesłano: {transmitted}",
                 "Version": "Wersja: {version}"
             }
