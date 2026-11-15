@@ -147,6 +147,6 @@ export default class ConsoleTextarea extends Mixins(BaseMixin, ConsoleMixin) {
 
 <style scoped>
 .gcode-command-field {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
 }
 </style>

@@ -49,7 +49,7 @@ export default class AfcPanelMessage extends Mixins(BaseMixin, AfcMixin) {
 <style scoped>
 .text-format {
     white-space: break-spaces;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 0.875rem;
 }
 </style>

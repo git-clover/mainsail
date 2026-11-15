@@ -686,7 +686,7 @@
         "Connecting": "{host} 호스트로 접속 중..",
         "ConnectionFailed": "연결 실패",
         "EditPrinter": "프린터 정보 수정",
-        "Hello": "어서와~ 메인세일 리모트 모드는 처음이지?", /* HOW DO YOU--- WHAT????*/
+        "Hello": "어서와~ 메인세일 리모트 모드는 처음이지?",
         "HostnameInvalid": "유효하지 않은 호스트 이름/IP 주소",
         "HostnameIp": "호스트 이름/IP 주소",
         "HostnameRequired": "공란 사용 불가",

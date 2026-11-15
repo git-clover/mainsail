@@ -146,6 +146,6 @@ export default class PageConsole extends Mixins(BaseMixin, ConsoleMixin) {
 }
 
 .gcode-command-field {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
 }
 </style>
