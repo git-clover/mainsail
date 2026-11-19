@@ -1,11 +1,11 @@
 {
     "name": "mainsail",
-    "version": "2.19.0",
+    "version": "3.0.0-1",
     "private": true,
     "type": "module",
     "decription": "a klipper web interface",
     "author": {
-        "name": "Stefan Dej"
+        "name": "IDOLABS"
     },
     "scripts": {
         "serve": "vite serve",
