@@ -21,7 +21,7 @@ export default function buildReleaseInfo(): PluginOption {
                 await releaseInfoFile.writeFile(
                     JSON.stringify({
                         project_name: 'mainsail',
-                        project_owner: 'mainsail-crew',
+                        project_owner: 'git-clover',
                         version: `v${version}`,
                     })
                 )

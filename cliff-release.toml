@@ -43,12 +43,12 @@ footer = """
 
 # postprocessors
 postprocessors = [
-    { pattern = '<REPO>', replace = "https://github.com/mainsail-crew/mainsail" }, # replace repository URL
+    { pattern = '<REPO>', replace = "https://github.com/git-clover/mainsail" }, # replace repository URL
 ]
 
 
 [remote.github]
-owner = "mainsail-crew"
+owner = "git-clover"
 repo = "mainsail"
 
 [git]
