@@ -1,3 +1,7 @@
+* {
+    font-family: "Pretendard";
+}
+
 html {
     overflow: auto;
     scrollbar-color: #6b6b6b #272727;
