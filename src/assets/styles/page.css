@@ -1,14 +1,15 @@
-* {
-    font-family: "Pretendard";
+.v-application {
+    font-family: 'Pretendard';
+    line-height: 1.5;
 }
 
 html {
     overflow: auto;
-    scrollbar-color: #6b6b6b #272727;
+    scrollbar-color: #5d87bd #182331;
 }
 
 body {
-    background: #121212;
+    background: #0e151d;
 }
 
 #page-container {
